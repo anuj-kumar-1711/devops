@@ -1,7 +1,0 @@
-a simple text file.
-insert any content below here-
-this is line1
-this is line2
-adding more content in this file
-this is only for testing purpose
-here we can put anything in text formatnew line is herethis line is to test the credentials.helper file's use
