@@ -1,4 +1,0 @@
-This is a simple text file.
-I made some changes in this file.
-I'm adding some extra lines here.
-These lines are only for testing purpose.
